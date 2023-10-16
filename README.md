@@ -9,5 +9,6 @@ This application demonstrate the communication ability between the following com
 
 Each of the components above is a separate and independent Docker container.
 
-To run this application, at the root directory, use the command
-```docker compose up -d```
+To run this application, at the root directory, use the two commands
+```docker compose build```
+```docker compose up```
