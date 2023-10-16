@@ -17,5 +17,5 @@ The application runs in the following order
     6. The front-end then adds the result with the random number and display the final message to the user.
 
 To run this application, at the root directory, use the two commands
-```docker compose build```
+```docker compose build``` and 
 ```docker compose up```
